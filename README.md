@@ -1,0 +1,2 @@
+# stub-r-file
+assignment
